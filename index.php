@@ -901,11 +901,11 @@
         </div>
     </div>
 </div>
-<div class="footer">
+<div class="footer font-archivo">
     <div class="container">
         <div class="py-5">
             <div class="row">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-3 col-md-6">
                     <div class="h2">Stay Updated</div>
                     <div class="lead my-2">Stay up-to-date with the latest job listings and career tips from our newsletter.</div>
                     <div class="d-flex align-items-center mt-4 border-fot rounded">
@@ -927,6 +927,79 @@
                         </div>
                     </div>
                     <img src="asset/img/logo.png" alt="" class="mt-5">
+                    <div class="icon pt-3 clr-dark-blue">
+                        <i class="icon-fot px-2 font-16 fab fa-facebook"></i>
+                        <i class="icon-fot px-2 font-16 fab fa-youtube"></i>
+                        <i class="icon-fot px-2 font-16 fab fa-twitter"></i>
+                        <i class="icon-fot px-2 font-16 fab fa-linkedin-in"></i>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="list-wrp ml-5">
+                        <h2>Jobs</h2>
+                        <ul class="fot m-0 p-0">
+                            <li>IT Development</li>
+                            <li>Finance</li>
+                            <li>Healthcare</li>
+                            <li>Sales & Marketing</li>
+                            <li>Education</li>
+                            <li>Design</li>
+                            <li>Research</li>
+                            <li>Human Resources</li>
+                            <li>Freelance</li>
+                            <li>Jobs For You</li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="list-wrp ml-5">
+                        <h2>About</h2>
+                        <ul class="fot m-0 p-0">
+                            <li>About Us</li>
+                            <li>History</li>
+                            <li>Our Team</li>
+                            <li>Testimonials</li>
+                        </ul>
+                        <h2 class="mt-5">Blog</h2>
+                        <ul class="fot m-0 p-0">
+                            <li>News</li>
+                            <li>Tips</li>
+                            <li>Events</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="list-wrp ml-5">
+                        <h2>Services</h2>
+                        <ul class="fot m-0 p-0">
+                            <li>For Employee</li>
+                            <li>For Employer</li>
+                            <li>Support</li>
+                        </ul>
+                        <h2 class="mt-5">Contact</h2>
+                        <ul class="fot m-0 p-0">
+                            <li>Phone</li>
+                            <li>Email</li>
+                            <li>Social Media</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-6 ">
+                <div class="lead">
+                    Copyright © 2023 ImoJobs. All rights reserved.
+                </div>
+            </div>
+            <div class="col-6 d-flex justify-content-end">
+                <div class="lead">
+                    Privacy Policy. Terms & Condition.
                 </div>
             </div>
         </div>

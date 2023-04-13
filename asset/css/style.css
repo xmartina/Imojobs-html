@@ -794,6 +794,12 @@
 .border-fot{
     border: 1px solid #075017;
 }
+ul.fot li{
+    list-style: none;
+    line-height: 1.9;
+    font-size: 17px;
+    font-weight: 300;
+}
 .news-b{
     height: 250px;
     object-fit: cover;
