@@ -791,6 +791,9 @@
     margin-top: 120px!important;
     background-color: #F5F5F5;
 }
+.border-fot{
+    border: 1px solid #075017;
+}
 .news-b{
     height: 250px;
     object-fit: cover;

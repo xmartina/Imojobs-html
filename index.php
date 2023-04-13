@@ -832,6 +832,104 @@
 <div class="section-10 py-4">
     <div class="h1 font-weight-bold clr-dark-blue text-center mt-3">FAQ</div>
     <div class="lead mb-5 text-center w-75 m-auto">Frequently asked questions about our services.</div>
-</div>
+    <div class="container">
+        <div class="row my-5">
+            <div class="col-lg-6 my-3">
+                <div class="accordion bg-white">
+                    <div class="d-flex p-3 align-items-center justify-content-between">
+                        <div class="text-15 font-weight-bold">How do I search for jobs on ImoJobs?</div>
+                        <div class="accdi-wrp" id="acd-rotate">
+                            <span class="btn material-symbols-outlined clr-green" onclick="rotateAcd1()">add</span>
+                        </div>
 
+                    </div>
+                    <div class="py-3 px-5 pb-5 font-15 acd-1-output">
+                        To search for jobs on ImoJobs, simply navigate to the homepage and enter your
+                        criteria in the search bar at the top of the page. You can enter keywords related to
+                        salary range. After that, click the Search button to begin your job hunting journey.
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 my-3">
+                <div class="accordion bg-white">
+                    <div class="d-flex p-3 align-items-center justify-content-between">
+                        <div class="text-15 font-weight-bold">What type of jobs are listed on ImoJobs?</div>
+                        <div class="accdi-wrp-2" id="acd-rotate2">
+                            <span class="btn material-symbols-outlined clr-green" onclick="rotateAcd2()">add</span>
+                        </div>
+
+                    </div>
+                    <div class="py-3 px-5 pb-5 font-15 acd-2-output">
+                        To search for jobs on ImoJobs, simply navigate to the homepage and enter your
+                        criteria in the search bar at the top of the page. You can enter keywords related to
+                        salary range. After that, click the Search button to begin your job hunting journey.
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 my-3">
+                <div class="accordion bg-white">
+                    <div class="d-flex p-3 align-items-center justify-content-between">
+                        <div class="text-15 font-weight-bold">How do I apply for a job on ImoJobs?</div>
+                        <div class="accdi-wrp-3" id="acd-rotate3">
+                            <span class="btn material-symbols-outlined clr-green" onclick="rotateAcd3()">add</span>
+                        </div>
+
+                    </div>
+                    <div class="py-3 px-5 pb-5 font-15 acd-3-output">
+                        To search for jobs on ImoJobs, simply navigate to the homepage and enter your
+                        criteria in the search bar at the top of the page. You can enter keywords related to
+                        salary range. After that, click the Search button to begin your job hunting journey.
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 my-3">
+                <div class="accordion bg-white">
+                    <div class="d-flex p-3 align-items-center justify-content-between">
+                        <div class="text-15 font-weight-bold">Can I apply for jobs outside of my location?</div>
+                        <div class="accdi-wrp-4" id="acd-rotate-4">
+                            <span class="btn material-symbols-outlined clr-green" onclick="rotateAcd4()">add</span>
+                        </div>
+
+                    </div>
+                    <div class="py-3 px-5 pb-5 font-15 acd-4-output">
+                        To search for jobs on ImoJobs, simply navigate to the homepage and enter your
+                        criteria in the search bar at the top of the page. You can enter keywords related to
+                        salary range. After that, click the Search button to begin your job hunting journey.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="container">
+        <div class="py-5">
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="h2">Stay Updated</div>
+                    <div class="lead my-2">Stay up-to-date with the latest job listings and career tips from our newsletter.</div>
+                    <div class="d-flex align-items-center mt-4 border-fot rounded">
+                        <div class="jumbo-form bg-white rounded">
+                            <form>
+                                <div class="inner-form d-flex justify-content-between">
+                                    <div class="left d-flex">
+                                        <div class="input-wrap first">
+                                            <div class="input-field first">
+                                                <input type="text" placeholder="&#xf0e0 Enter Email Address" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="btn-wrapper d-flex align-items-center">
+                                        <button class="btn-search btn-success mr-2" type="button">Subscribe</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <img src="asset/img/logo.png" alt="" class="mt-5">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <?php require_once ('footer.php'); ?>
