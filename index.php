@@ -1,6 +1,6 @@
 <?php require_once ('header.php'); ?>
 
-<div class="w-100 jumbotron">
+<div class="w-100 jumbotron position-relative">
     <div class="col-lg-8 height-inherit d-flex flex-column justify-content-center">
         <div class="display-4 mt-2 font-weight-bold text-white mt-md-45">
             <div class="bg-custom  pl-3 mb-2 position-relative w-75">
